@@ -1,0 +1,13 @@
+server:
+ port: 8122
+ 
+spring:
+ application:
+  name: spring-cache
+ h2:
+  console:
+   enabled: true
+ jpa:
+  show-sql: true
+   
+ 
